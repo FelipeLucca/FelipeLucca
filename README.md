@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil github 👋👋
 
 
- Olá, me chamo Felipe, tenho 33 anos e sou de Mogi das Cruzes, sou apaixonado por games :video_game:, poker :diamonds::spades::hearts::clubs: e esportes de aventura :surfer:. Estou em transição de carreira e após 12 anos de trabalhos e muito estudo dedicados à área da saúde :weight_lifting_man:, agora sou estudante de programação, uma área que sempre gostei e me divirto muito tentando encontrar bugs no meu codigo javascript :monkey_face::earth_americas: rs. Quero me aprofundar no desenvolvimento mobile e contribuir com soluções para projetos e negócios.
+ Olá, me chamo Felipe, nascido na década de 80 (internet discada) e por games :video_game:, poker :diamonds::spades::hearts::clubs: e esportes de aventura :surfer:. Após 12 anos de trabalhos e muito estudo dedicados à área da saúde :weight_lifting_man:, agora sou estudante de programação, uma área que sempre gostei e me divirto muito tentando encontrar bugs e refatorar meu codigo :monkey_face::earth_americas: rs. Quero aprender algo novo todos os dias e contribuir com soluções para projetos e negócios.
   
  Atualmente aprendendo
   <br>                                                                                                                                                                   <br>
