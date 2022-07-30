@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil github 👋👋
 
 
- Olá, me chamo Felipe, nascido na década de 80 (internet discada) e apaixonado por games :video_game:, poker :diamonds::spades::hearts::clubs: e esportes de aventura :surfer:. Após 12 anos de trabalhos e muito estudo dedicados à área da saúde e esporte :weight_lifting_man:, busco uma transição de carreira através da programação, um lugar que sempre achei bacana mas nunca tinha estimulado minha atenção para isso. Todos os dias aprendo um pouco mais, debugo meu código e coloco pra funcionar baby!! :monkey_face::earth_americas:.Dentro deste vasto universo quero ter a oportunidade de contribuir com soluções para projetos e negócios. 
+ Olá, me chamo Felipe, nascido na década de 80 (internet discada) e apaixonado por games :video_game:, poker :diamonds::spades::hearts::clubs: e esportes de aventura :surfer:. Após 12 anos de trabalhos e muito estudo dedicados à área da saúde e esporte :weight_lifting_man:, busco uma transição de carreira através da programação, um lugar que sempre achei bacana mas nunca tinha estimulado minha atenção para isso. Todos os dias aprendo um pouco mais, debugo meu código e coloco pra funcionar!! :monkey_face::earth_americas:.Dentro deste vasto universo quero ter a oportunidade de contribuir com soluções para projetos e negócios. 
   
  Atualmente aprendendo
   <br>                                                                                                                                                                   <br>
